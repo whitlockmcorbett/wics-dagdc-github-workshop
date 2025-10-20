@@ -1,7 +1,7 @@
 # Git/GitHub Workshop - README Overview
 > WiCS x DAGDC
 
-## 🌸 About README.md files
+## ☘️ About README.md files
 
 ### 💫 A README.md file is a text file that describes the project contained in a repo.
 - _.md_ = a "markdown" text file -> allows special formatting and some html/css capabilities.
@@ -21,7 +21,7 @@
 And more!
 
 ---
-## 🌸 Headers
+## ☘️ Headers
 
 # 🌟 Heading 1
 1 hashtag: `# Heading 1`
