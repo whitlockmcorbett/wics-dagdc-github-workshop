@@ -21,7 +21,7 @@
 And more!
 
 ---
-## ☘️ Headers
+## 🌸 Headers
 
 # 🌟 Heading 1
 1 hashtag: `# Heading 1`
